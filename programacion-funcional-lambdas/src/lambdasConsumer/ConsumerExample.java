@@ -11,8 +11,7 @@ public class ConsumerExample {
          * Consumer: Recibe un valor y no retorna nada
          * No us return estrictamente
          */
-
-
+        
         //Declaramos Consumer que recibe el tipo de dato String
         //Tres maneras de declarar el Conumer y la impresion del parametro
 
