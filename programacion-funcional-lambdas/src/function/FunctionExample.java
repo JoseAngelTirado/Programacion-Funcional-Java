@@ -11,7 +11,7 @@ public class FunctionExample {
          //Declaramos el tipo de dato que recibimos y el que retornamos
         Function<Integer,String> function = (num) ->{
 
-            return "El nmero es: " + num;
+            return "El numero es: " + num;
         };
 
         String result = function.apply(5);
